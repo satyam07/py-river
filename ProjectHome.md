@@ -1,0 +1,1 @@
+This project will produce a program in Python that will produce a River of News-style web page set that reports on RSS and Atom feeds for mobile and desktop browsers. Users will be able to deploy this program on all platforms that support Python.
